@@ -638,11 +638,6 @@
 			<div class="row">
 				<div class="col">
 					<div class="newsletter_container d-flex flex-lg-row flex-column align-items-center justify-content-start">
-
-
-
-
-
 					</div>
 				</div>
 			</div>
