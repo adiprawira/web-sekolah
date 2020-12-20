@@ -111,7 +111,28 @@
 <script src="<?= base_url() ?>template/front-end/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
 <script src="<?= base_url() ?>template/front-end/plugins/easing/easing.js"></script>
 <script src="<?= base_url() ?>template/front-end/plugins/parallax-js-master/parallax.min.js"></script>
+
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
+<script src="<?= base_url() ?>template/front-end/plugins/marker_with_label/marker_with_label.js"></script>
 <script src="<?= base_url() ?>template/front-end/js/custom.js"></script>
+<script src="<?= base_url() ?>template/front-end/js/blog_single.js"></script>
+<script src="<?= base_url() ?>template/front-end/plugins/colorbox/jquery.colorbox-min.js"></script>
+
+<script type="text/javascript" src="<?= base_url() ?>template/datatable/datatables.min.js"></script>
+
+
+<script>
+    initsample();
+</script>
+
+
+<script>
+    $(document).ready(function() {
+        $('#myTable').DataTable({
+
+        });
+    });
+</script>
 
 </body>
 

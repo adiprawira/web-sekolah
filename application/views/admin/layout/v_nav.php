@@ -37,6 +37,9 @@
                    <a href="<?= base_url('gallery') ?>"><i class="fa fa-image"></i> Gallery</a>
                </li>
                <li>
+                   <a href="<?= base_url('download') ?>"><i class="fa fa-download"></i> Download</a>
+               </li>
+               <li>
                    <a href="#"><i class="fa fa-wrench fa-fw"></i> UI Elements<span class="fa arrow"></span></a>
                    <ul class="nav nav-second-level">
                        <li>

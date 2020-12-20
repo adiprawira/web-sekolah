@@ -11,7 +11,7 @@
                      </div>
                      <nav class="main_nav_contaner ml-auto">
                          <ul class="main_nav">
-                             <li class="active"><a href="#">Home</a></li>
+                             <li class="active"><a href="<?= base_url() ?>">Home</a></li>
 
                              <li class="nav-item dropdown">
                                  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -24,7 +24,7 @@
                                      <a class="dropdown-item" href="#">Visi & Misi</a>
                                      <a class="dropdown-item" href="#">Struktur Organisasi</a>
                                      <a class="dropdown-item" href="#">Data Siswa</a>
-                                     <a class="dropdown-item" href="#">Data Guru & Karyawan</a>
+                                     <a class="dropdown-item" href="<?= base_url('home/guru') ?>">Data Guru & Karyawan</a>
                                  </div>
                              </li>
                              <li class="nav-item dropdown">
@@ -33,8 +33,8 @@
                                  </a>
                                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                                      <a class="dropdown-item" href="#">Gallery</a>
-                                     <a class="dropdown-item" href="#">Berita</a>
-                                     <a class="dropdown-item" href="#">Download</a>
+                                     <a class="dropdown-item" href="<?= base_url('home/berita') ?>">Berita</a>
+                                     <a class="dropdown-item" href="<?= base_url('home/download') ?>">Download</a>
                                  </div>
                              </li>
                              <li><a href="blog.html">Program Keahlian</a></li>

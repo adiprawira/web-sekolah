@@ -23,7 +23,7 @@
                                         </li>
                                         <li>
                                             <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                                            <div>info.deercreative@gmail.com</div>
+                                            <div>info.smkagakpintar@gmail.com</div>
                                         </li>
                                     </ul>
                                     <div class="top_bar_login ml-auto">
