@@ -90,7 +90,7 @@
                     </div>
                     <div class="ml-lg-auto cr_links">
                         <ul class="cr_list">
-                            <li><a href="#">Copyright Team Project</a></li>
+                            <li><a href="#">Copyright Team Project Cekungkrung</a></li>
                             <li><a href="#">Salam Code</a></li>
                             <li><a href="#">Coding is Cool</a></li>
                         </ul>
