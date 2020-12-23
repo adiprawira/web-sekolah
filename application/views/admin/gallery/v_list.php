@@ -37,7 +37,7 @@
                              <td class="text-center">
                                  <img src="<?= base_url('sampul/' . $value->sampul) ?>" width="150px"><br>
                                  <i class="fa fa-image"> <?= $value->jml_foto ?> Foto</i> <br>
-                                 <a href="<?= base_url('gallery/add_foto') ?>" class="btn btn-success btn-xs"><i class=" fa fa-plus"></i>Tambah Foto</a>
+                                 <a href="<?= base_url('gallery/add_foto/'. $value->id_gallery) ?>" class="btn btn-success btn-xs"><i class=" fa fa-plus"></i>Tambah Foto</a>
                              </td>
                              <td>
                                  <a href="<?= base_url('gallery/edit/' . $value->id_gallery) ?>" class="btn btn-xs btn-success"><i class="fa fa-pencil"></i></a>

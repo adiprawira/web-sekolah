@@ -15,7 +15,7 @@
                                 <div class="top_bar_content d-flex flex-row align-items-center justify-content-start">
                                     <ul class="top_bar_contact_list">
                                         <li>
-                                            <div class="question">Have any questions?</div>
+                                            <div class="question">Ingin Agak Pintar ?</div>
                                         </li>
                                         <li>
                                             <i class="fa fa-phone" aria-hidden="true"></i>

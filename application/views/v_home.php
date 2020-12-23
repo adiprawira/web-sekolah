@@ -8,15 +8,15 @@
 
 				<!-- Home Slider Item -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(<?= base_url() ?>template/front-end/images/home_slider_1.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(<?= base_url() ?>template/front-end/images/home_slider.jpg)"></div>
 					<div class="home_slider_content">
 						<div class="container">
 							<div class="row">
 								<div class="col text-center">
-									<div class="home_slider_title">The Premium System Education</div>
-									<div class="home_slider_subtitle">Future Of Education Technology</div>
+									<div class="home_slider_title">Selamat Datang DI SMKN 1 AGAK PINTAR</div>
+									<div class="home_slider_subtitle">SMK ! GO GO BISA !!!</div>
 									<div class="home_slider_form_container">
-										<form action="#" id="home_search_form_2" class="home_search_form d-flex flex-lg-row flex-column align-items-center justify-content-between">
+										<!-- <form action="#" id="home_search_form_1" class="home_search_form d-flex flex-lg-row flex-column align-items-center justify-content-between">
 											<div class="d-flex flex-row align-items-center justify-content-start">
 												<input type="search" class="home_search_input" placeholder="Keyword Search" required="required">
 												<select class="dropdown_item_select home_search_input">
@@ -31,7 +31,7 @@
 												</select>
 											</div>
 											<button type="submit" class="home_search_button">search</button>
-										</form>
+										</form> -->
 									</div>
 								</div>
 							</div>
@@ -41,15 +41,15 @@
 
 				<!-- Home Slider Item -->
 				<div class="owl-item">
-					<div class="home_slider_background" style="background-image:url(<?= base_url() ?>template/front-end/images/home_slider_1.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(<?= base_url() ?>template/front-end/images/home_slider_2.jpg)"></div>
 					<div class="home_slider_content">
 						<div class="container">
 							<div class="row">
 								<div class="col text-center">
-									<div class="home_slider_title">The Premium System Education</div>
-									<div class="home_slider_subtitle">Future Of Education Technology</div>
+									<div class="home_slider_title">Selamat Datang DI SMKN 1 AGAK PINTAR</div>
+									<div class="home_slider_subtitle">SMK ! GO GO BISA !!!</div>
 									<div class="home_slider_form_container">
-										<form action="#" id="home_search_form_3" class="home_search_form d-flex flex-lg-row flex-column align-items-center justify-content-between">
+										<!-- <form action="#" id="home_search_form_2" class="home_search_form d-flex flex-lg-row flex-column align-items-center justify-content-between">
 											<div class="d-flex flex-row align-items-center justify-content-start">
 												<input type="search" class="home_search_input" placeholder="Keyword Search" required="required">
 												<select class="dropdown_item_select home_search_input">
@@ -64,7 +64,40 @@
 												</select>
 											</div>
 											<button type="submit" class="home_search_button">search</button>
-										</form>
+										</form> -->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Home Slider Item -->
+				<div class="owl-item">
+					<div class="home_slider_background" style="background-image:url(<?= base_url() ?>template/front-end/images/home_slider_3.jpg)"></div>
+					<div class="home_slider_content">
+						<div class="container">
+							<div class="row">
+								<div class="col text-center">
+									<div class="home_slider_title">Selamat Datang DI SMKN 1 AGAK PINTAR</div>
+									<div class="home_slider_subtitle">SMK ! GO GO BISA !!!</div>
+									<div class="home_slider_form_container">
+										<!-- <form action="#" id="home_search_form_3" class="home_search_form d-flex flex-lg-row flex-column align-items-center justify-content-between">
+											<div class="d-flex flex-row align-items-center justify-content-start">
+												<input type="search" class="home_search_input" placeholder="Keyword Search" required="required">
+												<select class="dropdown_item_select home_search_input">
+													<option>Category Courses</option>
+													<option>Category</option>
+													<option>Category</option>
+												</select>
+												<select class="dropdown_item_select home_search_input">
+													<option>Select Price Type</option>
+													<option>Price Type</option>
+													<option>Price Type</option>
+												</select>
+											</div>
+											<button type="submit" class="home_search_button">search</button>
+										</form> -->
 									</div>
 								</div>
 							</div>
@@ -79,62 +112,62 @@
 		<div class="home_slider_nav home_slider_prev"><i class="fa fa-angle-left" aria-hidden="true"></i></div>
 		<div class="home_slider_nav home_slider_next"><i class="fa fa-angle-right" aria-hidden="true"></i></div>
 	</div>
-	<!-- Features -->
+	<!-- jurusan -->
 
 	<div class="features">
 		<div class="container">
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<h2 class="section_title">Welcome To SMK Agak Pintar</h2>
+						<h2 class="section_title">SMKN 1 AGAK PINTAR</h2>
 						<div class="section_subtitle">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida arcu. Vestibulum feugiat, sapien ultrices fermentum congue, quam velit venenatis sem</p>
+							<p> Sekolah unggulan terfavorit sekabupaten Seoul,korea selatan.Memiliki jurusan yang Lengkap serta Memiliki peran penting dalam mencerdaskan dan memintarkan putra putri daerah.Serta di dukung oleh Guru PROFESIONAL bersertifikasi di bidangnya.Mari bergabung lah di sekolah kami karna masa depan yang cerah di mulai dari sini !</p>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="row features_row">
 
-				<!-- Features Item -->
+				<!-- jurusan -->
 				<div class="col-lg-3 feature_col">
 					<div class="feature text-center trans_400">
 						<div class="feature_icon"><img src="<?= base_url() ?>template/front-end/images/icon_1.png" alt=""></div>
-						<h3 class="feature_title">The Experts</h3>
+						<h3 class="feature_title">TEKNIK OTOMOTIF</h3>
 						<div class="feature_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+							<a href="<?= base_url('tkr') ?>">TEKNIK KENDARAAN RINGAN</a>
 						</div>
 					</div>
 				</div>
 
-				<!-- Features Item -->
+				<!-- juurusan -->
 				<div class="col-lg-3 feature_col">
 					<div class="feature text-center trans_400">
 						<div class="feature_icon"><img src="<?= base_url() ?>template/front-end/images/icon_2.png" alt=""></div>
-						<h3 class="feature_title">Book & Library</h3>
+						<h3 class="feature_title">AKUNTANSI</h3>
 						<div class="feature_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+							<a href="<?= base_url('akuntansi') ?>">JURUSAN AKUNTANSI</a>
 						</div>
 					</div>
 				</div>
 
-				<!-- Features Item -->
+				<!-- jurusan-->
 				<div class="col-lg-3 feature_col">
 					<div class="feature text-center trans_400">
 						<div class="feature_icon"><img src="<?= base_url() ?>template/front-end/images/icon_3.png" alt=""></div>
-						<h3 class="feature_title">Best Courses</h3>
+						<h3 class="feature_title">TKJ</h3>
 						<div class="feature_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+							<a href="<?= base_url('tkj') ?>">TEKNIK KOMPUTER & JARINGAN</a>
 						</div>
 					</div>
 				</div>
 
-				<!-- Features Item -->
+				<!-- jurusan -->
 				<div class="col-lg-3 feature_col">
 					<div class="feature text-center trans_400">
 						<div class="feature_icon"><img src="<?= base_url() ?>template/front-end/images/icon_4.png" alt=""></div>
-						<h3 class="feature_title">Award & Reward</h3>
+						<h3 class="feature_title">Agribinis Tanaman Perkebunan</h3>
 						<div class="feature_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+							<a href="<?= base_url('perkebunan') ?>">ATP</a>
 						</div>
 					</div>
 				</div>
@@ -151,9 +184,9 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<h2 class="section_title">Popular Online Courses</h2>
+						<h2 class="section_title">JURUSAN TERFAVORIT</h2>
 						<div class="section_subtitle">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida arcu. Vestibulum feugiat, sapien ultrices fermentum congue, quam velit venenatis sem</p>
+							<p>MENJADI 3 JURUSAN YANG PALING BANYAK DI MINATI OLEH SISWA/SISWI YANG MENGHASILKAN LULUSAN TERBAIK DI BIDANGNYA SERTA SIAP BEKERJA DENGAN KEMAMPUAN YANG MUMPUNI</p>
 						</div>
 					</div>
 				</div>
@@ -163,25 +196,25 @@
 				<!-- Course -->
 				<div class="col-lg-4 course_col">
 					<div class="course">
-						<div class="course_image"><img src="<?= base_url() ?>template/front-end/images/course_1.jpg" alt=""></div>
+						<div class="course_image"><img src="<?= base_url() ?>template/front-end/images/tkj.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Software Training</a></h3>
-							<div class="course_teacher">Mr. John Taylor</div>
+							<h3 class="course_title"><a href="#">TEKNIK KOMPUTER JARINGAN</a></h3>
+							<div class="course_teacher">TKJ</div>
 							<div class="course_text">
-								<p>Lorem ipsum dolor sit amet, consectetur adipi elitsed do eiusmod tempor</p>
+								<p>Menghasilkan siswa/siswi melek teknologi dan memahami akan dasar dasar dunia komputer serta jaringan,mumpuni untuk dapat meningkatan sumber daya manusia di bidang teknologi</p>
 							</div>
 						</div>
 						<div class="course_footer">
 							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
 								<div class="course_info">
 									<i class="fa fa-graduation-cap" aria-hidden="true"></i>
-									<span>20 Student</span>
+									<span>2000 siswa/tahun</span>
 								</div>
 								<div class="course_info">
 									<i class="fa fa-star" aria-hidden="true"></i>
-									<span>5 Ratings</span>
+									<span>9.9 Ratings</span>
 								</div>
-								<div class="course_price ml-auto">$130</div>
+
 							</div>
 						</div>
 					</div>
@@ -190,25 +223,25 @@
 				<!-- Course -->
 				<div class="col-lg-4 course_col">
 					<div class="course">
-						<div class="course_image"><img src="<?= base_url() ?>template/front-end/images/course_2.jpg" alt=""></div>
+						<div class="course_image"><img src="<?= base_url() ?>template/front-end/images/otomotif.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Developing Mobile Apps</a></h3>
-							<div class="course_teacher">Ms. Lucius</div>
+							<h3 class="course_title"><a href="course.html">TEKNIK OTOMOTIF</a></h3>
+							<div class="course_teacher">TEKNIK OTOMOTIF/TEKNIK KENDARAAN RINGAN(TKR)</div>
 							<div class="course_text">
-								<p>Lorem ipsum dolor sit amet, consectetur adipi elitsed do eiusmod tempor</p>
+								<p>Menghasilkan lulusan yang melek akan dunia otomotif yang memahami dasar dasar teknik otomotif kendaraan yang ringan dan dapat langsung terjun ke dunia kerja yang ada khususnya di bidang perotomotifan indonesia </p>
 							</div>
 						</div>
 						<div class="course_footer">
 							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
 								<div class="course_info">
 									<i class="fa fa-graduation-cap" aria-hidden="true"></i>
-									<span>20 Student</span>
+									<span>1500 siswa/tahun</span>
 								</div>
 								<div class="course_info">
 									<i class="fa fa-star" aria-hidden="true"></i>
-									<span>5 Ratings</span>
+									<span>9.8 Ratings</span>
 								</div>
-								<div class="course_price ml-auto">Free</div>
+
 							</div>
 						</div>
 					</div>
@@ -217,25 +250,28 @@
 				<!-- Course -->
 				<div class="col-lg-4 course_col">
 					<div class="course">
-						<div class="course_image"><img src="<?= base_url() ?>template/front-end/images/course_3.jpg" alt=""></div>
+						<div class="course_image"><img src="<?= base_url() ?>template/front-end/images/perkebunan.jpg" alt=""></div>
 						<div class="course_body">
-							<h3 class="course_title"><a href="course.html">Starting a Startup</a></h3>
-							<div class="course_teacher">Mr. Charles</div>
+							<h3 class="course_title"><a href="course.html">Agribinis Tanaman Perkebunan</a></h3>
+							<div class="course_teacher">ATP</div>
 							<div class="course_text">
-								<p>Lorem ipsum dolor sit amet, consectetur adipi elitsed do eiusmod tempor</p>
+								<p>(APTn) memiliki dua
+									Paket Keahlian,(ATP) dan Agribisnis
+									Tanaman Perkebunan dan Hortikultura (ATPH). mencetak tenaga trampil
+									menengah dalam bidang Agribisnis Produksi Tanaman.</p>
 							</div>
 						</div>
 						<div class="course_footer">
 							<div class="course_footer_content d-flex flex-row align-items-center justify-content-start">
 								<div class="course_info">
 									<i class="fa fa-graduation-cap" aria-hidden="true"></i>
-									<span>20 Student</span>
+									<span>2500 siswa/tahun</span>
 								</div>
 								<div class="course_info">
 									<i class="fa fa-star" aria-hidden="true"></i>
-									<span>5 Ratings</span>
+									<span>100 Ratings</span>
 								</div>
-								<div class="course_price ml-auto"><span>$320</span>$220</div>
+
 							</div>
 						</div>
 					</div>
@@ -244,7 +280,7 @@
 			</div>
 			<div class="row">
 				<div class="col">
-					<div class="courses_button trans_200"><a href="#">view all courses</a></div>
+
 				</div>
 			</div>
 		</div>
@@ -258,9 +294,9 @@
 			<div class="row">
 				<div class="col-lg-6">
 					<div class="counter_content">
-						<h2 class="counter_title">Register Now</h2>
+						<h2 class="counter_title">JUMLAH LULUSAN SISWA 2005-2020</h2>
 						<div class="counter_text">
-							<p>Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dumy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+							<p>SMKN 1 AGAK PINTAR KABUPATEN SEOL KOREA SELATAN MEMILIKI TARGET PERTAHUN MELULUSKAN SERTA MENCERDASKAN SETIAP SISWANYA YANG AKAN MENJADI ALUMNI YANG TERJUAN LANGSUNG KE MASYARKAT DALAM MEBANTU PERTUMBUHAN EKONOMI NEGARA.MENJADIKAN LULUSAN TERBAIK DALAM MENGABDI DI MASYRAKAT</p>
 						</div>
 
 						<!-- Milestones -->
@@ -276,20 +312,20 @@
 							<!-- Milestone -->
 							<div class="milestone">
 								<div class="milestone_counter" data-end-value="120" data-sign-after="k">0</div>
-								<div class="milestone_text">years</div>
+								<div class="milestone_text">lulusan</div>
 							</div>
 
-							<!-- Milestone -->
+							<!-- Milestone
 							<div class="milestone">
 								<div class="milestone_counter" data-end-value="670" data-sign-after="+">0</div>
 								<div class="milestone_text">years</div>
 							</div>
 
 							<!-- Milestone -->
-							<div class="milestone">
+							<!-- <div class="milestone">
 								<div class="milestone_counter" data-end-value="320">0</div>
 								<div class="milestone_text">years</div>
-							</div>
+							</div> --> --
 
 						</div>
 					</div>
@@ -297,7 +333,7 @@
 				</div>
 			</div>
 
-			<div class="counter_form">
+			<!-- <div class="counter_form">
 				<div class="row fill_height">
 					<div class="col fill_height">
 						<form class="counter_form_content d-flex flex-column align-items-center justify-content-center" action="#">
@@ -315,7 +351,7 @@
 						</form>
 					</div>
 				</div>
-			</div>
+			</div> -->
 
 		</div>
 	</div>
@@ -327,9 +363,9 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<h2 class="section_title">Upcoming events</h2>
+						<h2 class="section_title">BERITA SEKOLAH</h2>
 						<div class="section_subtitle">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida arcu. Vestibulum feugiat, sapien ultrices fermentum congue, quam velit venenatis sem</p>
+							<p>Berita Informasi upcoming event ,pengumuman & berbagai infomasi penting bagi siswa maupun umum</p>
 						</div>
 					</div>
 				</div>
@@ -339,21 +375,21 @@
 				<!-- Event -->
 				<div class="col-lg-4 event_col">
 					<div class="event event_left">
-						<div class="event_image"><img src="<?= base_url() ?>template/front-end/images/event_1.jpg" alt=""></div>
+						<div class="event_image"><img src="<?= base_url() ?>template/front-end/images/mahasiswa_baru.jpg" alt=""></div>
 						<div class="event_body d-flex flex-row align-items-start justify-content-start">
 							<div class="event_date">
 								<div class="d-flex flex-column align-items-center justify-content-center trans_200">
 									<div class="event_day trans_200">21</div>
-									<div class="event_month trans_200">Aug</div>
+									<div class="event_month trans_200">agustus</div>
 								</div>
 							</div>
 							<div class="event_content">
-								<div class="event_title"><a href="#">Which Country Handles Student Debt?</a></div>
+								<div class="event_title"><a href="#">Penerimaan Calon Siswa/Siswi baru di smkn 1 agak pintar tahun ajaran 2021/2022</a></div>
 								<div class="event_info_container">
-									<div class="event_info"><i class="fa fa-clock-o" aria-hidden="true"></i><span>15.00 - 19.30</span></div>
-									<div class="event_info"><i class="fa fa-map-marker" aria-hidden="true"></i><span>25 New York City</span></div>
+									<div class="event_info"><i class="fa fa-clock-o" aria-hidden="true"></i><span>07.00 - 19.30 WKS</span></div>
+									<div class="event_info"><i class="fa fa-map-marker" aria-hidden="true"></i><span>21 Seoul Korea selatan</span></div>
 									<div class="event_text">
-										<p>Policy analysts generally agree on a need for reform, but not on which path...</p>
+										<p>Penerimaan siswa baru Smkn 1 agak pintar muali di buka pada tanggal 21 agustus 2020 yaitu dengan offline datang ke sekolah untuk ... </p>
 									</div>
 								</div>
 							</div>
@@ -364,7 +400,7 @@
 				<!-- Event -->
 				<div class="col-lg-4 event_col">
 					<div class="event event_mid">
-						<div class="event_image"><img src="<?= base_url() ?>template/front-end/images/event_2.jpg" alt=""></div>
+						<div class="event_image"><img src="<?= base_url() ?>template/front-end/images/pengumuman.jpg" alt=""></div>
 						<div class="event_body d-flex flex-row align-items-start justify-content-start">
 							<div class="event_date">
 								<div class="d-flex flex-column align-items-center justify-content-center trans_200">
@@ -373,12 +409,12 @@
 								</div>
 							</div>
 							<div class="event_content">
-								<div class="event_title"><a href="#">Repaying your student loans (Winter 2017-2018)</a></div>
+								<div class="event_title"><a href="#">Pengumuman Penerimaan calon siswa baru tahun ajaran 2021/2022</a></div>
 								<div class="event_info_container">
-									<div class="event_info"><i class="fa fa-clock-o" aria-hidden="true"></i><span>09.00 - 17.30</span></div>
-									<div class="event_info"><i class="fa fa-map-marker" aria-hidden="true"></i><span>25 Brooklyn City</span></div>
+									<div class="event_info"><i class="fa fa-clock-o" aria-hidden="true"></i><span>07.00 - 10:00 WKS</span></div>
+									<div class="event_info"><i class="fa fa-map-marker" aria-hidden="true"></i><span>25 Seoul Korea Selatan</span></div>
 									<div class="event_text">
-										<p>This Consumer Action News issue covers topics now being debated before...</p>
+										<p>Pengumuman penerimaan siswa baru tahun ajaran 2021/2022 akan di selenggarakan di sekolah pada ...</p>
 									</div>
 								</div>
 							</div>
@@ -389,7 +425,7 @@
 				<!-- Event -->
 				<div class="col-lg-4 event_col">
 					<div class="event event_right">
-						<div class="event_image"><img src="<?= base_url() ?>template/front-end/images/event_3.jpg" alt=""></div>
+						<div class="event_image"><img src="<?= base_url() ?>template/front-end/images/penerimaan.jpg" alt=""></div>
 						<div class="event_body d-flex flex-row align-items-start justify-content-start">
 							<div class="event_date">
 								<div class="d-flex flex-column align-items-center justify-content-center trans_200">
@@ -398,12 +434,12 @@
 								</div>
 							</div>
 							<div class="event_content">
-								<div class="event_title"><a href="#">Alternative data and financial inclusion</a></div>
+								<div class="event_title"><a href="#">Apa saja yang harus kamu lakukan ketika di terima di SMKN 1AGAK PINTAR</a></div>
 								<div class="event_info_container">
-									<div class="event_info"><i class="fa fa-clock-o" aria-hidden="true"></i><span>13.00 - 18.30</span></div>
-									<div class="event_info"><i class="fa fa-map-marker" aria-hidden="true"></i><span>25 New York City</span></div>
+									<div class="event_info"><i class="fa fa-clock-o" aria-hidden="true"></i><span>13.00 - 18.30 WKS</span></div>
+									<div class="event_info"><i class="fa fa-map-marker" aria-hidden="true"></i><span>01 Seoul Korea Selatan</span></div>
 									<div class="event_text">
-										<p>Policy analysts generally agree on a need for reform, but not on which path...</p>
+										<p>Adapun hal hal penting yang harus kamu persiapkan dalam mengikuti kegiatan setelah kamu di nyatakan lulus yaitu ...</p>
 									</div>
 								</div>
 							</div>
@@ -415,7 +451,7 @@
 		</div>
 	</div>
 
-	<!-- Team -->
+	<!-- kepala jurusan -->
 
 	<div class="team">
 		<div class="team_background parallax-window" data-parallax="scroll" data-image-src="<?= base_url() ?>template/front-end/images/team_background.jpg" data-speed="0.8"></div>
@@ -423,22 +459,22 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<h2 class="section_title">The Best Tutors in Town</h2>
+						<h2 class="section_title">Kepala Jurusan</h2>
 						<div class="section_subtitle">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida arcu. Vestibulum feugiat, sapien ultrices fermentum congue, quam velit venenatis sem</p>
+							<p>Di tangan mereka segala bentuk metode pembelajaran menajadi sangat efektif dan inovatif di setiap jurusan yang merak kuasai.Di mana tentu saja mereka ada=lah tenaga pengajar profesionaL yang BERSERTIFIKASI .</p>
 						</div>
 					</div>
 				</div>
 			</div>
 			<div class="row team_row">
 
-				<!-- Team Item -->
+				<!-- kepala jurusan -->
 				<div class="col-lg-3 col-md-6 team_col">
 					<div class="team_item">
-						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/team_1.jpg" alt=""></div>
+						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/kepsek.jpg" alt=""></div>
 						<div class="team_body">
-							<div class="team_title"><a href="#">Jacke Masito</a></div>
-							<div class="team_subtitle">Marketing & Management</div>
+							<div class="team_title"><a href="#">Yulianti</a></div>
+							<div class="team_subtitle">Kepala otomotif</div>
 							<div class="social_list">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -450,13 +486,13 @@
 					</div>
 				</div>
 
-				<!-- Team Item -->
+				<!-- kepala jurusan -->
 				<div class="col-lg-3 col-md-6 team_col">
 					<div class="team_item">
-						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/team_2.jpg" alt=""></div>
+						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/kepoto.jpg" alt=""></div>
 						<div class="team_body">
-							<div class="team_title"><a href="#">William James</a></div>
-							<div class="team_subtitle">Designer & Website</div>
+							<div class="team_title"><a href="#">Hadi suyana</a></div>
+							<div class="team_subtitle">Kepala jurusan TKJ</div>
 							<div class="social_list">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -468,13 +504,13 @@
 					</div>
 				</div>
 
-				<!-- Team Item -->
+				<!-- kepala jurusan -->
 				<div class="col-lg-3 col-md-6 team_col">
 					<div class="team_item">
-						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/team_3.jpg" alt=""></div>
+						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/bussines.jpg" alt=""></div>
 						<div class="team_body">
-							<div class="team_title"><a href="#">John Tyler</a></div>
-							<div class="team_subtitle">Quantum mechanics</div>
+							<div class="team_title"><a href="#">Supriyanti</a></div>
+							<div class="team_subtitle">Kepala Jurusan Agribinis Tanaman Perkebunan</div>
 							<div class="social_list">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -486,13 +522,13 @@
 					</div>
 				</div>
 
-				<!-- Team Item -->
+				<!-- kepala jurusan -->
 				<div class="col-lg-3 col-md-6 team_col">
 					<div class="team_item">
-						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/team_4.jpg" alt=""></div>
+						<div class="team_image"><img src="<?= base_url() ?>template/front-end/images/kepsekolah.jpg" alt=""></div>
 						<div class="team_body">
-							<div class="team_title"><a href="#">Veronica Vahn</a></div>
-							<div class="team_subtitle">Math & Physics</div>
+							<div class="team_title"><a href="#">Yuni Utami</a></div>
+							<div class="team_subtitle">Kepala jurusan AKUTANSI</div>
 							<div class="social_list">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -515,9 +551,9 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title_container text-center">
-						<h2 class="section_title">Latest News</h2>
+						<h2 class="section_title">Ekstrakurikuler Unggulan</h2>
 						<div class="section_subtitle">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel gravida arcu. Vestibulum feugiat, sapien ultrices fermentum congue, quam velit venenatis sem</p>
+							<p>Selain Akademik SMKN 1 AGAK PINTAR juga mempunyai beberapa ekstrakurikuler unggulan yang cukup membanggakan dan menyabet banyak prestasi.</p>
 						</div>
 					</div>
 				</div>
@@ -528,18 +564,18 @@
 					<!-- News Post Large -->
 					<div class="news_post_large_container">
 						<div class="news_post_large">
-							<div class="news_post_image"><img src="<?= base_url() ?>template/front-end/images/news_1.jpg" alt=""></div>
-							<div class="news_post_large_title"><a href="blog_single.html">Here’s What You Need to Know About Online Testing for the ACT and SAT</a></div>
+							<div class="news_post_image"><img src="<?= base_url() ?>template/front-end/images/silat.jpg" alt=""></div>
+							<div class="news_post_large_title"><a href="#">Pencak Silat adalah salah satu ekstrakulikuler unggulan di SMKN 1 AGAK PINTAR</a></div>
 							<div class="news_post_meta">
 								<ul>
-									<li><a href="#">admin</a></li>
-									<li><a href="#">november 11, 2017</a></li>
+									<li><a href="#">Pencak Silat Sejak 2015</a></li>
+									<li><a href="#"></a></li>
 								</ul>
 							</div>
 							<div class="news_post_text">
-								<p>Policy analysts generally agree on a need for reform, but not on which path policymakers should take. Can America learn anything from other nations...</p>
+								<p>Pencak Silat Smkn 1 agak pintar mempunyai beberapa prestasi di kanca kecamatan dan kabupaten</p>
 							</div>
-							<div class="news_post_link"><a href="blog_single.html">read more</a></div>
+
 						</div>
 					</div>
 				</div>
@@ -549,47 +585,35 @@
 
 						<!-- News Posts Small -->
 						<div class="news_post_small">
-							<div class="news_post_small_title"><a href="blog_single.html">Home-based business insurance issue (Spring 2017 - 2018)</a></div>
+							<div class="news_post_small_title"><a href="blog_single.html">PRAMUKA</a></div>
 							<div class="news_post_meta">
 								<ul>
-									<li><a href="#">admin</a></li>
-									<li><a href="#">november 11, 2017</a></li>
+									<li>Sejak 2010</li>
 								</ul>
 							</div>
 						</div>
 
 						<!-- News Posts Small -->
 						<div class="news_post_small">
-							<div class="news_post_small_title"><a href="blog_single.html">2018 Fall Issue: Credit Card Comparison Site Survey (Summer 2018)</a></div>
+							<div class="news_post_small_title"><a href="blog_single.html">PASKIBRA</a></div>
 							<div class="news_post_meta">
 								<ul>
-									<li><a href="#">admin</a></li>
-									<li><a href="#">november 11, 2017</a></li>
+									<li>Sejak 2016</li>
 								</ul>
 							</div>
 						</div>
 
 						<!-- News Posts Small -->
 						<div class="news_post_small">
-							<div class="news_post_small_title"><a href="blog_single.html">Cuentas de cheques gratuitas una encuesta de Consumer Action</a></div>
+							<div class="news_post_small_title"><a href="blog_single.html">ROHANI ISLAM</a></div>
 							<div class="news_post_meta">
 								<ul>
-									<li><a href="#">admin</a></li>
-									<li><a href="#">november 11, 2017</a></li>
+									<li>Sejak 2018</li>
 								</ul>
 							</div>
 						</div>
 
-						<!-- News Posts Small -->
-						<div class="news_post_small">
-							<div class="news_post_small_title"><a href="blog_single.html">Troubled borrowers have fewer repayment or forgiveness options</a></div>
-							<div class="news_post_meta">
-								<ul>
-									<li><a href="#">admin</a></li>
-									<li><a href="#">november 11, 2017</a></li>
-								</ul>
-							</div>
-						</div>
+
 
 					</div>
 				</div>

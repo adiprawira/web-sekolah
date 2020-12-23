@@ -105,17 +105,18 @@
             </div>
         </div>
     </div>
+</div>
 
-    <!-- Newsletter -->
+<!-- Newsletter -->
 
-    <div class="newsletter">
-        <div class="newsletter_background parallax-window" data-parallax="scroll" data-image-src="<?= base_url() ?>template/front-end/images/newsletter.jpg" data-speed="0.8"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <div class="newsletter_container d-flex flex-lg-row flex-column align-items-center justify-content-start">
-                    </div>
+<div class="newsletter">
+    <div class="newsletter_background parallax-window" data-parallax="scroll" data-image-src="<?= base_url() ?>template/front-end/images/newsletter.jpg" data-speed="0.8"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="newsletter_container d-flex flex-lg-row flex-column align-items-center justify-content-start">
                 </div>
             </div>
         </div>
     </div>
+</div>

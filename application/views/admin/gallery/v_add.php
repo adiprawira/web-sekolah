@@ -26,6 +26,7 @@
                  <label>Nama Gallery</label>
                  <input class="form-control" type="text" name="nama_gallery" placeholder="Nama Gallery" required>
              </div>
+
              <div class="form-group">
                  <label>Sampul</label>
                  <input type="file" class="form-control" type="text" name="sampul" required>

@@ -13,6 +13,30 @@ class M_gallery extends CI_Model
         return $this->db->get()->result();
     }
 
+    public function list_foto($id_gallery)
+    {
+        $this->db->select('*');
+        $this->db->from('tbl_foto');
+        $this->db->where('id_gallery', $id_gallery);
+        $this->db->order_by('id_gallery', 'DESC');
+
+        return $this->db->get()->result();
+    }
+    public function add($data)
+    {
+        $this->db->insert('tbl_gallery', $data);
+    }
+
+    public function add_foto($data)
+    {
+        $this->db->insert('tbl_foto', $data);
+    }
+    public function edit($data)
+    {
+        $this->db->where('id_gallery', $data['id_gallery']);
+        $this->db->update('tbl_gallery', $data);
+    }
+
     public function detail($id_gallery)
     {
         $this->db->select('*');
@@ -22,20 +46,24 @@ class M_gallery extends CI_Model
         return $this->db->get()->row();
     }
 
-    public function add($data)
-    {
-        $this->db->insert('tbl_gallery', $data);
-    }
-
-    public function edit($data)
-    {
-        $this->db->where('id_gallery', $data['id_gallery']);
-        $this->db->update('tbl_gallery', $data);
-    }
-
     public function delete($data)
     {
         $this->db->where('id_gallery', $data['id_gallery']);
         $this->db->delete('tbl_gallery', $data);
+    }
+
+    public function delete_foto($data)
+    {
+        $this->db->where('id_foto', $data['id_foto']);
+        $this->db->delete('tbl_foto', $data);
+    }
+
+    public function detail_foto($id_foto)
+    {
+        $this->db->select('*');
+        $this->db->from('tbl_foto');
+        $this->db->where('id_foto', $id_foto);
+
+        return $this->db->get()->row();
     }
 }

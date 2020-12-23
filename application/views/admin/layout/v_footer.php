@@ -14,15 +14,18 @@
 
 <!-- Metis Menu Plugin JavaScript -->
 <script src="<?= base_url() ?>template/back-end/js/metisMenu.min.js"></script>
+
 <!-- DataTables JavaScript -->
 <script src="<?= base_url() ?>template/back-end/js/dataTables/jquery.dataTables.min.js"></script>
 <script src="<?= base_url() ?>template/back-end/js/dataTables/dataTables.bootstrap.min.js"></script>
+
 
 <!-- Custom Theme JavaScript -->
 <script src="<?= base_url() ?>template/back-end/js/startmin.js"></script>
 
 <script src="<?= base_url() ?>datepicker/js/bootstrap-transition.js"></script>
 <script src="<?= base_url() ?>datepicker/js/bootstrap-datepicker.js"></script>
+
 
 <script>
     $(function() {
@@ -42,6 +45,13 @@
 <script>
     initSample();
 </script>
+
+
+
+<!-- Morris Charts JavaScript -->
+<script src="<?= base_url() ?>template/back-end//js/raphael.min.js"></script>
+<script src="<?= base_url() ?>template/back-end//js/morris.min.js"></script>
+<script src="<?= base_url() ?>template/back-end//js/morris-data.js"></script>
 </body>
 
 </html>

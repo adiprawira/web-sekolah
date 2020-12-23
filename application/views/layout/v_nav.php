@@ -5,7 +5,7 @@
              <div class="col">
                  <div class="header_content d-flex flex-row align-items-center justify-content-start">
                      <div class="logo_container">
-                         <a href="#">
+                         <a href="<?= base_url() ?>">
                              <div class="logo_text">SMK Agak<span> Pintar</span></div>
                          </a>
                      </div>
@@ -18,12 +18,10 @@
                                      Profile
                                  </a>
                                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                     <a class="dropdown-item" href="#">Sambutan Kepala Sekolah</a>
-                                     <a class="dropdown-item" href="#">Identitas Sekolah</a>
-                                     <a class="dropdown-item" href="#">Sejarah Sekolah</a>
-                                     <a class="dropdown-item" href="#">Visi & Misi</a>
-                                     <a class="dropdown-item" href="#">Struktur Organisasi</a>
-                                     <a class="dropdown-item" href="#">Data Siswa</a>
+                                     <a class="dropdown-item" href="<?= base_url('sambutan') ?>">Sambutan Kepala Sekolah</a>
+                                     <a class="dropdown-item" href="<?= base_url('identitas') ?>">Identitas Sekolah</a>
+                                     <a class="dropdown-item" href="<?= base_url('visimisi') ?>">Visi & Misi</a>
+                                     <a class="dropdown-item" href="<?= base_url('home/siswa') ?>">Data Siswa</a>
                                      <a class="dropdown-item" href="<?= base_url('home/guru') ?>">Data Guru & Karyawan</a>
                                  </div>
                              </li>
@@ -32,14 +30,14 @@
                                      Media
                                  </a>
                                  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                     <a class="dropdown-item" href="#">Gallery</a>
+                                     <a class="dropdown-item" href="<?= base_url('home/gallery') ?>">Gallery</a>
                                      <a class="dropdown-item" href="<?= base_url('home/berita') ?>">Berita</a>
                                      <a class="dropdown-item" href="<?= base_url('home/download') ?>">Download</a>
                                  </div>
                              </li>
-                             <li><a href="blog.html">Program Keahlian</a></li>
-                             <li><a href="blog.html">Fasilitas</a></li>
-                             <li><a href="about.html">About</a></li>
+                             <li><a href="<?= base_url('program') ?>">Program Keahlian</a></li>
+                             <li><a href="<?= base_url('fasilitas') ?>">Fasilitas</a></li>
+                             <li><a href="<?= base_url('about') ?>">About</a></li>
                          </ul>
 
                          <!-- Hamburger -->
@@ -98,7 +96,7 @@
              <li class="menu_mm"><a href="#">Courses</a></li>
              <li class="menu_mm"><a href="#">Blog</a></li>
              <li class="menu_mm"><a href="#">Page</a></li>
-             <li class="menu_mm"><a href="contact.html">Contact</a></li>
+             <li class="menu_mm"><a href="#">Contact</a></li>
          </ul>
      </nav>
  </div>

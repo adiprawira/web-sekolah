@@ -55,21 +55,23 @@
                                 <div class="footer_title">Halaman</div>
                                 <div class="footer_links_container">
                                     <ul>
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="about.html">About</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="#">Features</a></li>
-                                        <li><a href="courses.html">Courses</a></li>
-                                        <li><a href="#">Events</a></li>
-                                        <li><a href="#">Gallery</a></li>
-                                        <li><a href="#">FAQs</a></li>
+                                        <li><a href="<?= base_url() ?>">Home</a></li>
+                                        <li><a href="<?= base_url('sambutan') ?>">Sambutan</a></li>
+                                        <li><a href="<?= base_url('identitas') ?>">Identitas</a></li>
+                                        <li><a href="<?= base_url('visimisi') ?>">Visi & Misi</a></li>
+                                        <li><a href="<?= base_url('home/siswa') ?>">Data Siswa</a></li>
+                                        <li><a href="<?= base_url('home/guru') ?>">Data Guru & Karyawan</a></li>
+                                        <li><a href="<?= base_url('home/gallery') ?>">Gallery</a></li>
+                                        <li><a href="<?= base_url('home/berita') ?>">Berita</a></li>
+                                        <li><a href="<?= base_url('home/download') ?>">Download</a></li>
+                                        <li><a href="<?= base_url('program') ?>">Program Keahlian</a></li>
+                                        <li><a href="<?= base_url('fasilitas') ?>">Fasilitas</a></li>
+                                        <li><a href="<?= base_url('about') ?>">About</a></li>
                                     </ul>
                                 </div>
                             </div>
 
                         </div>
-
-
 
                     </div>
                 </div>
@@ -83,14 +85,14 @@
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         Copyright &copy;<script>
                             document.write(new Date().getFullYear());
-                        </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="<?= base_url() ?>template/front-end/https://colorlib.com" target="_blank">Colorlib</a>
+                        </script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="<?= base_url() ?>template/front-end/https://colorlib.com" target="_blank">Team Project</a>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
                     <div class="ml-lg-auto cr_links">
                         <ul class="cr_list">
-                            <li><a href="#">Copyright notification</a></li>
-                            <li><a href="#">Terms of Use</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
+                            <li><a href="#">Copyright Team Project</a></li>
+                            <li><a href="#">Salam Code</a></li>
+                            <li><a href="#">Coding is Cool</a></li>
                         </ul>
                     </div>
                 </div>
@@ -119,7 +121,7 @@
 <script src="<?= base_url() ?>template/front-end/plugins/colorbox/jquery.colorbox-min.js"></script>
 
 <script type="text/javascript" src="<?= base_url() ?>template/datatable/datatables.min.js"></script>
-
+<script src="<?= base_url() ?>template/front-end/js/about.js"></script>
 
 <script>
     initsample();

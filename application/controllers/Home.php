@@ -12,7 +12,7 @@ class Home extends CI_Controller
   public function index()
   {
     $data = array(
-      'title' => 'Web Sekolah',
+      'title' => 'Home',
       'isi' => 'v_home'
     );
 
@@ -94,6 +94,40 @@ class Home extends CI_Controller
       'latets_berita' => $this->m_home->latets_berita(),
       'detail_berita' => $this->m_home->detail_berita($slug_berita),
       'isi' => 'v_detail_berita'
+    );
+
+    $this->load->view('layout/v_wrapper', $data, false);
+  }
+
+  public function siswa()
+  {
+    $data = array(
+      'title' => 'Siswa',
+      'siswa' => $this->m_home->siswa(),
+      'isi' => 'v_siswa'
+    );
+
+    $this->load->view('layout/v_wrapper', $data, false);
+  }
+
+  public function gallery()
+  {
+    $data = array(
+      'title' => 'Gallery Foto',
+      'gallery' => $this->m_home->gallery(),
+      'isi' => 'v_gallery'
+    );
+
+    $this->load->view('layout/v_wrapper', $data, false);
+  }
+
+  public function detail_gallery($id_gallery)
+  {
+    $data = array(
+      'title' => 'Detail Gallery Foto',
+      'gallery' => $this->m_home->detail_gallery($id_gallery),
+      'nama_gallery' => $this->m_home->nama_galery($id_gallery),
+      'isi' => 'v_detail_gallery'
     );
 
     $this->load->view('layout/v_wrapper', $data, false);
